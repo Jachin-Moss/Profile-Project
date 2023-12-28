@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
+
+.table {
+  background-color: beige;
+}
+
+table, th, td {
+  border: 1px black solid;
+}
+
+#button {
+  position: relative; left: -650px; top:-25px;
+  margin: 16px;
+}
